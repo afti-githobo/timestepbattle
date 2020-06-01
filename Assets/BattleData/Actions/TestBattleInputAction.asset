@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b59e017bf71f1e44ba369a7161d5301d, type: 3}
+  m_Name: TestBattleInputAction
+  m_EditorClassIdentifier: 
+  Name: '[TEST] Select action'
+  Delay: 0
+  IsTargeting: 0
+  stages:
+  - {fileID: 11400000, guid: 4bb41d6fb33e81a4b98e6599d1265df9, type: 2}
